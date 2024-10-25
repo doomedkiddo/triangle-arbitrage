@@ -1,0 +1,3 @@
+/home/kali/Documents/triangle-arbitrage/build/CMakeFiles/btrader.dir
+/home/kali/Documents/triangle-arbitrage/build/CMakeFiles/edit_cache.dir
+/home/kali/Documents/triangle-arbitrage/build/CMakeFiles/rebuild_cache.dir
